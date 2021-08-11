@@ -1,7 +1,7 @@
 # LeNet-5-Implementation
 
 ## Overview
-This project aims at implementing the LeNet-5 model for hadwritten text recogonition
+This project aims at implementing the LeNet-5 model for hadwritten text recogonition using python
 <br>
 ![image](https://user-images.githubusercontent.com/78743757/128977559-d760cfff-c293-4a3a-8e3c-f8bcb7310bed.png)
 
