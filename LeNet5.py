@@ -29,4 +29,4 @@ lenet_5_model.compile(optimizer= 'adam', loss=keras.losses.sparse_categorical_cr
   
 # Evaluating the Model
 lenet_5_model.fit(train_x, train_y, epochs=10, validation_data=(val_x, val_y))
-lenet_5_model.evaluate(test_x, test_y)
+%prun lenet_5_model.evaluate(test_x, test_y)
